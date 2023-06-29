@@ -1,0 +1,21 @@
+
+h1{text-align: center;
+    padding: 12px;
+    background-color: violet;
+     color: black;} 
+
+    h3{ 
+        text-align: center;
+        padding-block: 6px;
+        background-color: violet;
+    }
+        .container{
+            max-width: min-content=20%; 
+            margin-left: 40% ;
+            margin-right: 40%;
+           ;
+            
+        }
+        
+       
+        
