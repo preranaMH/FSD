@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color:black ;
+    font-family: 'Rock Salt', cursive;
+}
+
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link {
+    font-size: 1rem;
+    margin-left:10px ;
+    margin-right: 10px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link:hover{
+    color: black;
+
+}
+.search{
+    height:40px ;
+    width: 90%;
+    border-radius:50px ;
+    outline: none;
+    margin-right: -25px;
+    border: 3px solid rgb(60, 190,90);
+    font-family: 'Poppins', sans-serif;
+
+}
+.btn0{
+    height:40px ;
+    width: 40%;
+    outline: none;
+    border: none;
+    background:  rgb(60, 190,90);
+    color: white;
+    border-radius: 50px;
+    font-weight: 700px;
+}
+.main{
+    background: url(org2.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main1{
+    color: black;
+    background: url(org1.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main h1{
+   
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+
+
+}
+.btn1{
+    height: 45px;
+    width: 25%;
+    border: none;
+    outline: none;
+    background-color: darkred;
+    color:white;
+    font-weight: 700;
+    border-radius: 50px;
+
+}
+.img-luid{
+    margin:8px ;
+}
+.news{
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
